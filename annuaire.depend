@@ -1,0 +1,108 @@
+# depslib dependency file v1.0
+1421827081 source:z:\documents\annuaire\annuaire.c
+	<stdio.h>
+	<unistd.h>
+	<stdlib.h>
+	"get_next_line.h"
+
+1418921259 source:z:\documents\annuaire\get_next_line.c
+	"get_next_line.h"
+	<unistd.h>
+	<stdlib.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<fcntl.h>
+	<errno.h>
+
+1418919284 z:\documents\annuaire\get_next_line.h
+
+1426018966 source:c:\users\medhi\downloads\annuaire\annuaire.c
+	<stdio.h>
+	<unistd.h>
+	<stdlib.h>
+	<string.h>
+	"annuaire.h"
+
+1425973108 c:\users\medhi\downloads\annuaire\annuaire.h
+
+1425973112 source:c:\users\medhi\downloads\annuaire\list.c
+	<stdio.h>
+	<string.h>
+	<unistd.h>
+	<stdlib.h>
+	"annuaire.h"
+
+1425973114 source:c:\users\medhi\downloads\annuaire\main.c
+	<stdio.h>
+	<unistd.h>
+	<stdlib.h>
+	"annuaire.h"
+
+1426019188 source:c:\users\medhi\downloads\annuaire\sauv.c
+	<stdio.h>
+	<unistd.h>
+	<stdlib.h>
+	"annuaire.h"
+
+1425973116 source:c:\users\medhi\downloads\annuaire\str_capitalize.c
+
+1425389308 source:c:\users\mzerfaoui\downloads\annuaire\list.c
+	<stdio.h>
+	<string.h>
+	<unistd.h>
+	<stdlib.h>
+	"annuaire.h"
+
+1425453938 c:\users\mzerfaoui\downloads\annuaire\annuaire.h
+
+1425389312 source:c:\users\mzerfaoui\downloads\annuaire\sauv.c
+	<stdio.h>
+	<unistd.h>
+	<stdlib.h>
+	"annuaire.h"
+
+1425389312 source:c:\users\mzerfaoui\downloads\annuaire\str_capitalize.c
+
+1425454357 source:c:\users\mzerfaoui\downloads\annuaire\main.c
+	<stdio.h>
+	<unistd.h>
+	<stdlib.h>
+	"annuaire.h"
+
+1425454767 source:c:\users\mzerfaoui\downloads\annuaire\annuaire.c
+	<stdio.h>
+	<unistd.h>
+	<stdlib.h>
+	<string.h>
+	"annuaire.h"
+
+1425389308 source:c:\users\mzerfaoui\desktop\annuaire\list.c
+	<stdio.h>
+	<string.h>
+	<unistd.h>
+	<stdlib.h>
+	"annuaire.h"
+
+1425453938 c:\users\mzerfaoui\desktop\annuaire\annuaire.h
+
+1425454894 source:c:\users\mzerfaoui\desktop\annuaire\main.c
+	<stdio.h>
+	<unistd.h>
+	<stdlib.h>
+	"annuaire.h"
+
+1425389312 source:c:\users\mzerfaoui\desktop\annuaire\str_capitalize.c
+
+1425456054 source:c:\users\mzerfaoui\desktop\annuaire\annuaire.c
+	<stdio.h>
+	<unistd.h>
+	<stdlib.h>
+	<string.h>
+	"annuaire.h"
+
+1425995304 source:c:\users\mzerfaoui\desktop\annuaire\sauv.c
+	<stdio.h>
+	<unistd.h>
+	<stdlib.h>
+	"annuaire.h"
+
